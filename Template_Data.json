@@ -1,0 +1,264 @@
+{
+  "templates": [
+    {
+      "name": "Class_Select.png",
+      "values": [
+        {
+          "posX": 40,
+          "posY": 97,
+          "sizeX": 155,
+          "sizeY": 155
+        },
+        {
+          "posX": 270,
+          "posY": 97,
+          "sizeX": 155,
+          "sizeY": 155
+        },
+        {
+          "posX": 490,
+          "posY": 97,
+          "sizeX": 155,
+          "sizeY": 155
+        },{
+          "posX": 40,
+          "posY": 310,
+          "sizeX": 155,
+          "sizeY": 155
+        },
+        {
+          "posX": 270,
+          "posY": 310,
+          "sizeX": 155,
+          "sizeY": 155
+        },
+        {
+          "posX": 490,
+          "posY": 310,
+          "sizeX": 155,
+          "sizeY": 155
+        }
+      ]
+    },
+    {
+      "name": "Copy_Homework.jpg",
+      "values": [
+        {
+          "posX": 500,
+          "posY": 150,
+          "sizeX": 200,
+          "sizeY": 200
+        },
+        {
+          "posX": 500,
+          "posY": 400,
+          "sizeX": 200,
+          "sizeY": 200
+        },
+        {
+          "posX": 500,
+          "posY": 640,
+          "sizeX": 200,
+          "sizeY": 200
+        },
+        {
+          "posX": 500,
+          "posY": 875,
+          "sizeX": 200,
+          "sizeY": 200
+        },
+        {
+          "posX": 500,
+          "posY": 1120,
+          "sizeX": 200,
+          "sizeY": 200
+        },
+        {
+          "posX": 500,
+          "posY": 1360,
+          "sizeX": 200,
+          "sizeY": 200
+        }
+      ]
+    },
+    {
+      "name": "Coroline.jpg",
+      "values": [
+        {
+          "posX": 125,
+          "posY": 500,
+          "sizeX": 250,
+          "sizeY": 250
+        }
+      ]
+    },
+    {
+      "name": "Drake_Yes_No.jpg",
+      "values": [
+        {
+          "posX": 330,
+          "posY": 10,
+          "sizeX": 250,
+          "sizeY": 250
+        },
+        {
+          "posX": 330,
+          "posY": 300,
+          "sizeX": 250,
+          "sizeY": 250
+        }
+      ]
+    },
+    {
+      "name": "Ed_Card.jpg",
+      "values": [
+        {
+          "posX": 205,
+          "posY": 450,
+          "sizeX": 110,
+          "sizeY": 160
+        }
+      ]
+    },
+    {
+      "name": "Feelings.png",
+      "values": [
+        {
+          "posX": 50,
+          "posY": 775,
+          "sizeX": 575,
+          "sizeY": 350
+        }
+      ]
+    },
+    {
+      "name": "Heaven.jpg",
+      "values": [
+        {
+          "posX": 382,
+          "posY": 368,
+          "sizeX": 375,
+          "sizeY": 375
+        }
+      ]
+    },
+    {
+      "name": "It_Scares_Me.jpg",
+      "values": [
+        {
+          "posX": 5,
+          "posY": 265,
+          "sizeX": 475,
+          "sizeY": 275
+        }
+      ]
+    },
+    {
+      "name": "Jesus.jpg",
+      "values": [
+        {
+          "posX": 230,
+          "posY": 224,
+          "sizeX": 233,
+          "sizeY": 166
+        }
+      ]
+    },
+    {
+      "name": "Jotaro_Photo.png",
+      "values": [
+        {
+          "posX": 470,
+          "posY": 500,
+          "sizeX": 500,
+          "sizeY": 300
+        }
+      ]
+    },
+    {
+      "name": "Knows_What.jpg",
+      "values": [
+        {
+          "posX": 370,
+          "posY": 370,
+          "sizeX": 320,
+          "sizeY": 320
+        },
+        {
+          "posX": 370,
+          "posY": 730,
+          "sizeX": 320,
+          "sizeY": 320
+        },
+        {
+          "posX": 730,
+          "posY": 370,
+          "sizeX": 320,
+          "sizeY": 320
+        },
+        {
+          "posX": 730,
+          "posY": 730,
+          "sizeX": 320,
+          "sizeY": 320
+        }
+      ]
+    },
+    {
+      "name": "Office_Same_Picture.jpg",
+      "values": [
+        {
+          "posX": 75,
+          "posY": 50,
+          "sizeX": 500,
+          "sizeY": 400
+        },
+        {
+          "posX": 740,
+          "posY": 151,
+          "sizeX": 500,
+          "sizeY": 400
+        }
+      ]
+    },
+    {
+      "name": "Principle.png",
+      "values": [
+        {
+          "posX": 730,
+          "posY": 215,
+          "sizeX": 200,
+          "sizeY": 150
+        }
+      ]
+    },
+    {
+      "name": "Pupil.jpg",
+      "values": [
+        {
+          "posX": 10,
+          "posY": 370,
+          "sizeX": 380,
+          "sizeY": 350
+        }
+      ]
+    },
+    {
+      "name": "Winnie.jpg",
+      "values": [
+        {
+          "posX": 115,
+          "posY": 1,
+          "sizeX": 150,
+          "sizeY": 75
+        },
+        {
+          "posX": 115,
+          "posY": 95,
+          "sizeX": 150,
+          "sizeY": 75
+        }
+      ]
+    }
+  ]
+}
