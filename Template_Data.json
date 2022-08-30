@@ -110,6 +110,17 @@
       ]
     },
     {
+      "name": "Dream_Man.jpg",
+      "values": [
+        {
+          "posX": 315,
+          "posY": 375,
+          "sizeX": 450,
+          "sizeY": 550
+        }
+      ]
+    },
+    {
       "name": "Ed_Card.jpg",
       "values": [
         {
