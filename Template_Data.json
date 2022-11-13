@@ -38,7 +38,8 @@
           "sizeX": 155,
           "sizeY": 155
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Copy_Homework.jpg",
@@ -79,7 +80,8 @@
           "sizeX": 200,
           "sizeY": 200
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Coroline.jpg",
@@ -90,7 +92,8 @@
           "sizeX": 250,
           "sizeY": 250
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Drake_Yes_No.jpg",
@@ -107,7 +110,8 @@
           "sizeX": 250,
           "sizeY": 250
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Dream_Man.jpg",
@@ -118,7 +122,8 @@
           "sizeX": 450,
           "sizeY": 550
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Ed_Card.jpg",
@@ -129,7 +134,8 @@
           "sizeX": 110,
           "sizeY": 160
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Feelings.png",
@@ -140,7 +146,8 @@
           "sizeX": 575,
           "sizeY": 350
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Heaven.jpg",
@@ -151,7 +158,8 @@
           "sizeX": 375,
           "sizeY": 375
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "It_Scares_Me.jpg",
@@ -162,7 +170,8 @@
           "sizeX": 475,
           "sizeY": 275
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Jesus.jpg",
@@ -173,7 +182,8 @@
           "sizeX": 233,
           "sizeY": 166
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Jotaro_Photo.png",
@@ -184,7 +194,8 @@
           "sizeX": 500,
           "sizeY": 300
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Knows_What.jpg",
@@ -213,7 +224,8 @@
           "sizeX": 320,
           "sizeY": 320
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Office_Same_Picture.jpg",
@@ -230,7 +242,8 @@
           "sizeX": 500,
           "sizeY": 400
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Principle.png",
@@ -241,7 +254,8 @@
           "sizeX": 200,
           "sizeY": 150
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Pupil.jpg",
@@ -252,7 +266,8 @@
           "sizeX": 380,
           "sizeY": 350
         }
-      ]
+      ],
+      "repeatable": false
     },
     {
       "name": "Winnie.jpg",
@@ -269,7 +284,26 @@
           "sizeX": 150,
           "sizeY": 75
         }
-      ]
+      ],
+      "repeatable": false
+    },
+    {
+      "name": "Live_Reaction.png",
+      "values": [
+        {
+          "posX": 197,
+          "posY": 19,
+          "sizeX": 330,
+          "sizeY": 125
+        },
+        {
+          "posX": 10,
+          "posY": 160,
+          "sizeX": 935,
+          "sizeY": 540
+        }
+      ],
+      "repeatable": true
     }
   ]
 }
