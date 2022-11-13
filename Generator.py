@@ -17,6 +17,11 @@ for values in chosenFile["values"]:
     posY = values["posY"]
     sizeX = values["sizeX"]
     sizeY = values["sizeY"]
+
+    if not chosenFile["repeatable"]:
+        sourceName = random.choice(sourceFiles)
+        sourceFiles.remove(sourceName)
+
     source = Image.open("Source/" + sourceName)
     source = source.resize(size=(sizeX, sizeY))
     position = (posX, posY)
